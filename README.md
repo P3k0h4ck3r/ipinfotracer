@@ -15,6 +15,15 @@ It shows ISP, organization, country, region, city, ZIP code, and even a Google M
 - Cool ASCII banner with your name 😎
 
 ---
+## 💾 Installation Guide:-
+# 🐧Linux 
+```
+$ git clone https://github.com/p3k0h4ck3r/ipinfotracer/
+$ cd ipinfotracer
+$ chmod +x ipinfotracer.py
+$ python ipinfotracer.py
+```
+---
 
 ## 📸 Example Output
 <img width="618" height="341" alt="image" src="https://github.com/user-attachments/assets/e53390e2-87d7-4b81-9d49-0f37d7a2b2c7" />
