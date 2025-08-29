@@ -21,6 +21,8 @@ It shows ISP, organization, country, region, city, ZIP code, and even a Google M
 $ git clone https://github.com/p3k0h4ck3r/ipinfotracer/
 $ cd ipinfotracer
 $ chmod +x ipinfotracer.py
+$ python3 -m venv venv
+$ source venv/bin/activate
 $ python ipinfotracer.py
 ```
 ---
